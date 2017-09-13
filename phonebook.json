@@ -1,0 +1,36 @@
+[ {
+	"nameCafe" : "Лепим и Варим",
+	"site" : "https://www.facebook.com/lepimivarim/",
+	"address" : "г.Москва, Столешников переулок, 9/1",
+	"phoneNumber" : "+7 985 688-96-06"
+}, {
+	"nameCafe" : "Стейк Хаус Бутчер",
+	"site" : "http://bisonsteak.ru",
+	"address" : "г.Москва, ул.Профсоюзная, 66",
+	"phoneNumber" : "+7 925 506-66-84"
+}, {
+	"nameCafe" : "AQ Kitchen",
+	"site" : "http://aq.kitchen/",
+	"address" : "г.Москва, ул.Большая Грузинская, 69",
+	"phoneNumber" : "+7 499 393-32-24"
+}, {
+	"nameCafe" : "Wine & Crab Restaurant",
+	"site" : "http://www.winecrab.ru/",
+	"address" : "г.Москва, ул.Никольская, 19/21",
+	"phoneNumber" : "+7 495 621-73-29"
+}, {
+	"nameCafe" : "Пинцерия Бонтемпи",
+	"site" : "http://pinzeria.ru/",
+	"address" : "г.Москва, Большойзнаменский переулок, 2-3", 
+	"phoneNumber" : "+7 499 678-30-09"
+}, {
+	"nameCafe" : "SAVVA",
+	"site" : "http://savvarest.ru/",
+	"address" : "г.Москва, Театральный проезд, 2", 
+	"phoneNumber" : "+7 499 270-10-62"
+}, {
+	"nameCafe" : "Ресторан Bjorn",
+	"site" : "http://bjorn.rest",
+	"address" : "г.Москва, ул.Пятницкая, 3/4", 
+	"phoneNumber" : "+7 495 953-90-59"
+} ]
