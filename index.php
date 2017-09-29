@@ -9,7 +9,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Лучшие рестораны Москывпо версии TripAdvisor</title>
+	<title>Лучшие рестораны Москвы по версии TripAdvisor</title>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
